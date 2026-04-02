@@ -119,11 +119,25 @@ Most informative ROIs: **ACC** (conflict/uncertainty) and **amygdala** (threat/a
 
 ## Limitations
 
-- **100 samples** -- results are directional, not statistically definitive.
-- **7 index-based ROI slices** -- not anatomically validated. Real parcellation (Glasser HCP-MMP1.0, 360 regions) would give more interpretable and likely stronger signal.
+- **100 samples** -- results are directional, not statistically definitive. A 3% accuracy difference at this scale is noise.
+- **7 index-based ROI slices** -- not anatomically validated. The actual amygdala is not at vertices 2967–5721. Real parcellation (Glasser HCP-MMP1.0, 360 regions) could change the results significantly.
 - **z-score clustering** -- many samples fall in the "moderate" z-score band, limiting the formatter's expressiveness.
 - **ElevenLabs free tier** -- 10,000 chars/month. Re-generation requires a new API key or paid plan.
-- **Local LLM (8B params)** -- a larger model or fine-tuned emotion classifier would likely respond better to the neural context.
+- **Local LLM (8B params)** -- a larger or fine-tuned emotion classifier would likely respond better to the neural context.
+
+---
+
+## What Would Make This Publishable
+
+The approach is novel -- no prior work combines TRIBE v2 predicted activations with LLM emotion inference in a controlled experiment. The early signal is real. What it needs to reach publication quality:
+
+- **Real atlas parcellation.** Replace the 7 index-based slices with Glasser HCP-MMP1.0 (360 anatomically validated regions). This alone could substantially change the classifier results.
+- **500+ samples** with proper statistical significance testing across conditions.
+- **A validated multimodal emotion dataset** with annotated implicit and explicit emotion labels (CMU-MOSEI is the natural target).
+- **Direct embedding approach** instead of NL formatting -- feed the activations as a vector to the LLM rather than translating them to text first. The ROI classifier results suggest the signal is there; the translation step is the bottleneck.
+- **Larger or fine-tuned model** -- llama3.1:8b is a generalist. An emotion-specialized model would respond more reliably to the neural context.
+
+The infrastructure is here. The idea is here. It just needs resources.
 
 ---
 
