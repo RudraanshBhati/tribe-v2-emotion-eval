@@ -1,0 +1,19 @@
+TRIBE v2 Validation Experiment -- Decision Gate
+==================================================
+
+Verdict: PARTIAL SIGNAL
+
+Overall metrics:
+  Accuracy  -- A: 0.520  B: 0.550  C: 0.540
+  VAD-V r   -- A: 0.673  B: 0.595  C: 0.677
+
+Implicit category (key test):
+  Accuracy  -- A: 0.500  B: 0.500  C: 0.550
+
+Analysis:
+B outperforms C and improves over A on at least one metric. Signal is present but not consistent across all dimensions. Investigate formatter and ROI weighting before full build.
+
+Plots saved to: plots/
+  accuracy_by_category.png
+  vad_correlation_overall.png
+  vad_valence_heatmap.png

@@ -1,0 +1,20 @@
+ROI Classifier Results -- TRIBE v2 Validation Experiment
+============================================================
+Chance level: 25.0% (4-class, 100 samples)
+
+Text-based activations:
+  LogReg     20.0%
+  SVM        26.0%
+  RF         20.0%
+
+Emotional audio activations:
+  LogReg     26.0%
+  SVM        33.0%
+  RF         32.0%
+
+Best text-based : 26.0%  (at/near chance)
+Best emotional  : 33.0%  (above chance)
+
+Interpretation:
+  If classifiers exceed chance, TRIBE v2 activations encode emotion.
+  If emotional audio > text-based, prosody enriches the brain signal.

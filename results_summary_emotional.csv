@@ -1,0 +1,13 @@
+condition,category,emotion_accuracy,valence_r,arousal_r,dominance_r
+A,explicit,0.6,0.6971,0.0014,0.4145
+A,implicit,0.5,0.8045,0.0065,0.2656
+A,sarcastic,0.4,0.2245,-0.2352,-0.0009
+A,overall,0.52,0.6731,0.0219,0.2751
+B,explicit,0.675,0.6239,0.0513,0.3337
+B,implicit,0.5,0.7416,-0.2569,0.1428
+B,sarcastic,0.4,-0.0296,-0.0036,0.1092
+B,overall,0.55,0.5949,-0.0473,0.2381
+C,explicit,0.6,0.7495,-0.0611,0.3963
+C,implicit,0.55,0.7588,0.0981,0.2165
+C,sarcastic,0.4,0.2474,-0.2352,0.32
+C,overall,0.54,0.6773,0.0549,0.3216

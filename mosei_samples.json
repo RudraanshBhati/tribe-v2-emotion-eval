@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "when i had a serious argument with a dear person",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.217,
+      "arousal": 2.557,
+      "dominance": 2.179
+    },
+    "category": "implicit",
+    "id": "implicit_022"
+  },
+  {
+    "text": "i watched the news at the tv",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.891,
+      "arousal": 2.53,
+      "dominance": 2.103
+    },
+    "category": "implicit",
+    "id": "implicit_000"
+  },
+  {
+    "text": "i did feeling jolly accomplished currently",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.263,
+      "arousal": 1.859,
+      "dominance": 1.916
+    },
+    "category": "explicit",
+    "id": "explicit_035"
+  },
+  {
+    "text": "i am no expert in nutrition and diet planning i eat to feel strong and keep my energy level up",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.256,
+      "arousal": 1.815,
+      "dominance": 1.719
+    },
+    "category": "explicit",
+    "id": "explicit_004"
+  },
+  {
+    "text": "staying alone in the biology building after the dark",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.768,
+      "arousal": 2.792,
+      "dominance": 0.51
+    },
+    "category": "implicit",
+    "id": "implicit_028"
+  },
+  {
+    "text": "i feel no joy no pride there is nothing to be admired in that foul achievement",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.408,
+      "arousal": 1.761,
+      "dominance": 2.141
+    },
+    "category": "explicit",
+    "id": "explicit_014"
+  },
+  {
+    "text": "im feeling very jaded and uncertain about love and all basically im sick of being the one more in love of falling for someone who doesnt feel as much towards me",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.938,
+      "arousal": 0.412,
+      "dominance": 0.319
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_008"
+  },
+  {
+    "text": "i want change but i feel like im discouraged because im living so comfortably",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.292,
+      "arousal": 0.326,
+      "dominance": 0.335
+    },
+    "category": "explicit",
+    "id": "explicit_037"
+  },
+  {
+    "text": "i met my present boyfriend on a boat trip to england we had said that we would call each other when we got back to sweden we were not going to the same town in england as soon as i walked in he called from england as he could not wait till he came home",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.304,
+      "arousal": 1.978,
+      "dominance": 1.916
+    },
+    "category": "implicit",
+    "id": "implicit_014"
+  },
+  {
+    "text": "went to a movie with a date",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.741,
+      "arousal": 2.034,
+      "dominance": 2.095
+    },
+    "category": "implicit",
+    "id": "implicit_039"
+  },
+  {
+    "text": "i tuck the fear back into a quiet chamber of my heart to ponder it for another day when i am feeling less brave",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.142,
+      "arousal": 2.015,
+      "dominance": 1.763
+    },
+    "category": "explicit",
+    "id": "explicit_017"
+  },
+  {
+    "text": "i hate feeling this loyal to this damned company",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.891,
+      "arousal": 2.001,
+      "dominance": 2.19
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_003"
+  },
+  {
+    "text": "i had applied for a job and they had assured me that the exams would take place a few months later a week later i went to obtain some more information and they told me that the exams had already taken place",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.021,
+      "arousal": 2.529,
+      "dominance": 2.18
+    },
+    "category": "implicit",
+    "id": "implicit_018"
+  },
+  {
+    "text": "i feel like i want to make something but the house is so messy and i am still finishing up christmas gift knitting",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.099,
+      "arousal": 0.625,
+      "dominance": 0.66
+    },
+    "category": "explicit",
+    "id": "explicit_038"
+  },
+  {
+    "text": "i can still remember what it was like to be a teenager and that giddy feeling of amazement when the hot looking boy you like although we didn t use the term hot back then actually likes you back",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.572,
+      "arousal": 2.12,
+      "dominance": 1.967
+    },
+    "category": "explicit",
+    "id": "explicit_003"
+  },
+  {
+    "text": "when my mother kept me in leadingstrings",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.974,
+      "arousal": 2.516,
+      "dominance": 1.945
+    },
+    "category": "implicit",
+    "id": "implicit_013"
+  },
+  {
+    "text": "i feel blessed beyond belief to live in a day amp age when this treatment is available also to have a husband thats footing a very expensive medical bill",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.652,
+      "arousal": 2.028,
+      "dominance": 2.008
+    },
+    "category": "explicit",
+    "id": "explicit_021"
+  },
+  {
+    "text": "i feel contented but i m going to bet that i ll hate life tomorrow i hide a lot of things",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.518,
+      "arousal": 1.915,
+      "dominance": 1.902
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_009"
+  },
+  {
+    "text": "when i found out that i had passed the last two exams by a margin of three marks",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.331,
+      "arousal": 1.896,
+      "dominance": 1.925
+    },
+    "category": "implicit",
+    "id": "implicit_021"
+  },
+  {
+    "text": "i have a good idea for a post but am feeling too low to write it",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.136,
+      "arousal": 0.067,
+      "dominance": 0.684
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_013"
+  },
+  {
+    "text": "i feel like i m in some weird limbo between childhood and adulthood",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.132,
+      "arousal": 2.546,
+      "dominance": 0.646
+    },
+    "category": "explicit",
+    "id": "explicit_028"
+  },
+  {
+    "text": "at a party i met a girl who drew me to her",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.879,
+      "arousal": 2.383,
+      "dominance": 1.92
+    },
+    "category": "implicit",
+    "id": "implicit_037"
+  },
+  {
+    "text": "when going to the exam",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.074,
+      "arousal": 2.636,
+      "dominance": 0.617
+    },
+    "category": "implicit",
+    "id": "implicit_005"
+  },
+  {
+    "text": "i feel angry alone unwanted vexed irritable all the time",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.152,
+      "arousal": 2.21,
+      "dominance": 1.918
+    },
+    "category": "explicit",
+    "id": "explicit_030"
+  },
+  {
+    "text": "when i learned that my former boyfriend had become engaged although i was glad that he had found what he wanted",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.074,
+      "arousal": 0.519,
+      "dominance": 1.007
+    },
+    "category": "implicit",
+    "id": "implicit_019"
+  },
+  {
+    "text": "when we rearranged furniture in our flat and got stuck in a chair",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.967,
+      "arousal": 2.536,
+      "dominance": 2.164
+    },
+    "category": "implicit",
+    "id": "implicit_034"
+  },
+  {
+    "text": "i feel pretty strongly about not doing a giveaway to gain numbers",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.428,
+      "arousal": 2.103,
+      "dominance": 2.104
+    },
+    "category": "explicit",
+    "id": "explicit_011"
+  },
+  {
+    "text": "before getting back the results of a test in school",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.275,
+      "arousal": 2.403,
+      "dominance": 0.44
+    },
+    "category": "implicit",
+    "id": "implicit_038"
+  },
+  {
+    "text": "i feel less and less the feeling of fear and being afraid and scared",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.848,
+      "arousal": 2.556,
+      "dominance": 0.592
+    },
+    "category": "explicit",
+    "id": "explicit_012"
+  },
+  {
+    "text": "i feel pretty weird about that considering what my friends and colleagues in nyc and new jersey are going through but it s just the reality",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.136,
+      "arousal": 2.64,
+      "dominance": 0.396
+    },
+    "category": "explicit",
+    "id": "explicit_020"
+  },
+  {
+    "text": "i felt a very distinct feeling that told me everything would be ok and that all things would ultimately turnout for my good",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.389,
+      "arousal": 1.875,
+      "dominance": 1.66
+    },
+    "category": "explicit",
+    "id": "explicit_009"
+  },
+  {
+    "text": "i don t feel comfortable playing games with them presenting the bad guy as really a misunderstood good guy or vice versa",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.247,
+      "arousal": 1.832,
+      "dominance": 2.101
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_005"
+  },
+  {
+    "text": "i didn t feel rushed to finish millions of things and i was able to focus on each task separately",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.807,
+      "arousal": 2.405,
+      "dominance": 2.169
+    },
+    "category": "explicit",
+    "id": "explicit_002"
+  },
+  {
+    "text": "i feel a bit stupid for writing that but it s true",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.818,
+      "arousal": 0.757,
+      "dominance": 0.599
+    },
+    "category": "explicit",
+    "id": "explicit_029"
+  },
+  {
+    "text": "i realised karin s producing a book for those of us who feels keen but worries at the same time",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.475,
+      "arousal": 2.042,
+      "dominance": 1.985
+    },
+    "category": "explicit",
+    "id": "explicit_005"
+  },
+  {
+    "text": "i was feeling a little skeptical that it would arrive on time the situation was not improved by the fact that despite various perfect party setups seeking in ffxi nobody was bothering to set them up including me but duh im lazy",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.935,
+      "arousal": 2.36,
+      "dominance": 0.569
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_015"
+  },
+  {
+    "text": "my sister lost one of her twin sons my first nephews and then the older one died a week later",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.929,
+      "arousal": 0.489,
+      "dominance": 0.373
+    },
+    "category": "implicit",
+    "id": "implicit_007"
+  },
+  {
+    "text": "i feel frustrated about especially last night is not in doing all those things i actually enjoy them but in finding the time to do them",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.937,
+      "arousal": 2.226,
+      "dominance": 1.938
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_011"
+  },
+  {
+    "text": "im excited that i got the chance to get away and am now feeling a lot more appreciative of what i thought was just a normal life but realize with a different lens to look through is a pretty darn great one with a lot to be thankful for each and every day",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.425,
+      "arousal": 2.139,
+      "dominance": 1.83
+    },
+    "category": "explicit",
+    "id": "explicit_013"
+  },
+  {
+    "text": "i feel really tranquil where i am right now",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.457,
+      "arousal": 2.014,
+      "dominance": 2.011
+    },
+    "category": "explicit",
+    "id": "explicit_027"
+  },
+  {
+    "text": "insulted by disgusting people",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.942,
+      "arousal": 2.516,
+      "dominance": 1.963
+    },
+    "category": "implicit",
+    "id": "implicit_015"
+  },
+  {
+    "text": "i have played a great set i feel really hesitant to ask",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.096,
+      "arousal": 2.42,
+      "dominance": 0.372
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_016"
+  },
+  {
+    "text": "during the weekend at home",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.409,
+      "arousal": 2.501,
+      "dominance": 1.931
+    },
+    "category": "implicit",
+    "id": "implicit_024"
+  },
+  {
+    "text": "this monday i took a math bs test and flunked for the second time",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.064,
+      "arousal": 0.479,
+      "dominance": 0.316
+    },
+    "category": "implicit",
+    "id": "implicit_032"
+  },
+  {
+    "text": "i feel like i am being one person whom his life will be very miserable and not doing the best",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.923,
+      "arousal": 0.621,
+      "dominance": 0.838
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_006"
+  },
+  {
+    "text": "im feeling stubborn today and got home and was like no way im gonna go get that mri soon",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.857,
+      "arousal": 2.491,
+      "dominance": 1.866
+    },
+    "category": "explicit",
+    "id": "explicit_001"
+  },
+  {
+    "text": "when i was years old my father travelled very much for his work he passed three months away from home",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.838,
+      "arousal": 0.626,
+      "dominance": 0.502
+    },
+    "category": "implicit",
+    "id": "implicit_016"
+  },
+  {
+    "text": "i went to see the entrance examination results at university i rejoyced at my success",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.529,
+      "arousal": 2.079,
+      "dominance": 1.955
+    },
+    "category": "implicit",
+    "id": "implicit_009"
+  },
+  {
+    "text": "i feel the love and i thank you for it pagetitle popular news abc news u",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.566,
+      "arousal": 1.847,
+      "dominance": 1.964
+    },
+    "category": "explicit",
+    "id": "explicit_026"
+  },
+  {
+    "text": "i was overwhelmed with joy when i received the acceptance letter to unza this happened again when i passed all my first year courses",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.367,
+      "arousal": 2.009,
+      "dominance": 2.196
+    },
+    "category": "implicit",
+    "id": "implicit_025"
+  },
+  {
+    "text": "my girlfriend who had spent months abroad broke off our relationship by letter",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.774,
+      "arousal": 0.365,
+      "dominance": 0.118
+    },
+    "category": "implicit",
+    "id": "implicit_017"
+  },
+  {
+    "text": "after receiving the grade on the paper mentioned in fear",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.988,
+      "arousal": 0.308,
+      "dominance": 0.579
+    },
+    "category": "implicit",
+    "id": "implicit_012"
+  },
+  {
+    "text": "being reunited with my family after not having seen them for years",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.507,
+      "arousal": 2.043,
+      "dominance": 1.975
+    },
+    "category": "implicit",
+    "id": "implicit_002"
+  },
+  {
+    "text": "there was a cat on the street it had been run over and its head was open we passed beside it",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.237,
+      "arousal": 2.426,
+      "dominance": 1.923
+    },
+    "category": "implicit",
+    "id": "implicit_001"
+  },
+  {
+    "text": "im feeling im caring im healing im sharing amp a supportive bonding nurturing primary care giver",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.525,
+      "arousal": 2.102,
+      "dominance": 2.07
+    },
+    "category": "explicit",
+    "id": "explicit_036"
+  },
+  {
+    "text": "ive got a feeling that yesubais story sets up everything that happens in this world and im hopeful that all these horrible things she goes through brings around some kind of goodness",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.542,
+      "arousal": 2.001,
+      "dominance": 1.941
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_018"
+  },
+  {
+    "text": "i feel love se inscrie intr un rafinament lejer romantic si extrem de feminin",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.635,
+      "arousal": 1.864,
+      "dominance": 2.228
+    },
+    "category": "explicit",
+    "id": "explicit_010"
+  },
+  {
+    "text": "this happened a year when i was having a hard time",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.596,
+      "arousal": 1.99,
+      "dominance": 1.782
+    },
+    "category": "implicit",
+    "id": "implicit_006"
+  },
+  {
+    "text": "when my mothers heart nearly stopped",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.144,
+      "arousal": 2.199,
+      "dominance": 0.418
+    },
+    "category": "implicit",
+    "id": "implicit_036"
+  },
+  {
+    "text": "when i woke up in the middle of the night because of a dream",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.073,
+      "arousal": 2.447,
+      "dominance": 0.385
+    },
+    "category": "implicit",
+    "id": "implicit_003"
+  },
+  {
+    "text": "i have been feeling so melancholy and alone",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.11,
+      "arousal": 0.748,
+      "dominance": 0.464
+    },
+    "category": "explicit",
+    "id": "explicit_039"
+  },
+  {
+    "text": "i feel that your prince charming will come through sooner than you expected",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.411,
+      "arousal": 1.945,
+      "dominance": 2.108
+    },
+    "category": "explicit",
+    "id": "explicit_025"
+  },
+  {
+    "text": "every time i meet a certain dog that has once bitten me",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.316,
+      "arousal": 2.806,
+      "dominance": 0.523
+    },
+    "category": "implicit",
+    "id": "implicit_004"
+  },
+  {
+    "text": "i can feel my brain aching from the intense concentration required to try and keep up",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.191,
+      "arousal": 0.779,
+      "dominance": 0.359
+    },
+    "category": "explicit",
+    "id": "explicit_018"
+  },
+  {
+    "text": "realizing that a friend had been talked into signing a certain contract",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.93,
+      "arousal": 2.628,
+      "dominance": 1.797
+    },
+    "category": "implicit",
+    "id": "implicit_029"
+  },
+  {
+    "text": "i am if i go back to the hostel for a break i feel anxious to get back out and see more and more take it all in",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.927,
+      "arousal": 2.38,
+      "dominance": 0.629
+    },
+    "category": "explicit",
+    "id": "explicit_019"
+  },
+  {
+    "text": "in ward a was an epileptic patient who was burnt the whole body and was stinking very much such that the whole ward was affected few people could come near him",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.185,
+      "arousal": 2.355,
+      "dominance": 1.864
+    },
+    "category": "implicit",
+    "id": "implicit_035"
+  },
+  {
+    "text": "i guess being the good friend that he is he can not and will not allow me to go on with life feeling so distressed and confused",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.823,
+      "arousal": 2.496,
+      "dominance": 0.424
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_012"
+  },
+  {
+    "text": "finding out that i am not an as able student as i thought",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.638,
+      "arousal": 2.631,
+      "dominance": 0.78
+    },
+    "category": "implicit",
+    "id": "implicit_011"
+  },
+  {
+    "text": "i wake up in the morning and have my voice and my throat feels ok but by the afternoon its all scratchy again and i sound like marge simpson until the night when its so bad and my throat is so sore i just have to whisper",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.537,
+      "arousal": 2.122,
+      "dominance": 1.899
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_014"
+  },
+  {
+    "text": "im not a huge history buff but i do feel emotional when i think of my great uncle",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.123,
+      "arousal": 0.572,
+      "dominance": 0.605
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_004"
+  },
+  {
+    "text": "a girl entered in the division where i work and greeted everybody but not me",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.929,
+      "arousal": 2.42,
+      "dominance": 2.244
+    },
+    "category": "implicit",
+    "id": "implicit_033"
+  },
+  {
+    "text": "my classmate got a b for his homework while i only got a c when we got the results he acted as if he did not merit this grade i found that his humility was hypocritical and i found it disgusting",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.753,
+      "arousal": 2.596,
+      "dominance": 1.905
+    },
+    "category": "implicit",
+    "id": "implicit_008"
+  },
+  {
+    "text": "i feel terrible for mrs",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.072,
+      "arousal": 0.336,
+      "dominance": 0.354
+    },
+    "category": "explicit",
+    "id": "explicit_024"
+  },
+  {
+    "text": "on the way down a ski slope which was difficult and steep",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.058,
+      "arousal": 2.241,
+      "dominance": 0.699
+    },
+    "category": "implicit",
+    "id": "implicit_026"
+  },
+  {
+    "text": "i feel sort of foolish it was actually very easy and what she was asking made complete sense once i got there you have to bind off the neck and work with the shoulders separately hence the need for two balls of yarn",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.965,
+      "arousal": 0.384,
+      "dominance": 0.821
+    },
+    "category": "explicit",
+    "id": "explicit_031"
+  },
+  {
+    "text": "once i was caught by thugs aged between",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.886,
+      "arousal": 2.336,
+      "dominance": 0.908
+    },
+    "category": "implicit",
+    "id": "implicit_023"
+  },
+  {
+    "text": "when reading a newspaper story of a man who had committed incestuous acts on his twoyear old child the thought that anyone could do such a thing is abhorrent to me",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.121,
+      "arousal": 2.386,
+      "dominance": 2.157
+    },
+    "category": "implicit",
+    "id": "implicit_020"
+  },
+  {
+    "text": "i lost a close friend",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.887,
+      "arousal": 0.325,
+      "dominance": 0.427
+    },
+    "category": "implicit",
+    "id": "implicit_030"
+  },
+  {
+    "text": "i love to inspire students to be creative and most of all i love the moment when they create something that makes them feel successful",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.357,
+      "arousal": 2.078,
+      "dominance": 1.825
+    },
+    "category": "explicit",
+    "id": "explicit_022"
+  },
+  {
+    "text": "i feel like im facing alone my love hes gone",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.922,
+      "arousal": 0.548,
+      "dominance": 0.525
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_002"
+  },
+  {
+    "text": "i have wonderful family who are constantly on the lookout for me make phone calls for me do pr for me but i feel helpless and folks i am a doer so i always feel like if i cant help myself then",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.14,
+      "arousal": 0.641,
+      "dominance": 0.368
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_000"
+  },
+  {
+    "text": "i feel pressured to say something",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.065,
+      "arousal": 2.476,
+      "dominance": 0.354
+    },
+    "category": "explicit",
+    "id": "explicit_033"
+  },
+  {
+    "text": "i feel pissed my friend didnt offer me a soda",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.906,
+      "arousal": 2.491,
+      "dominance": 1.724
+    },
+    "category": "explicit",
+    "id": "explicit_000"
+  },
+  {
+    "text": "i miss lev and i didnt think that i would cos lately at school weve been rubbing eachother the bad directions i think but i feel as if break is serving as a splendid cleansing time",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.449,
+      "arousal": 2.346,
+      "dominance": 2.056
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_007"
+  },
+  {
+    "text": "a gigantic spider climbed over my face and what is more in my own flat",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.824,
+      "arousal": 2.382,
+      "dominance": 2.082
+    },
+    "category": "implicit",
+    "id": "implicit_031"
+  },
+  {
+    "text": "i cannot in good conscience encourage my young kids read stuff from someone i feel is so vile no matter how good it is",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.884,
+      "arousal": 2.584,
+      "dominance": 2.174
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_010"
+  },
+  {
+    "text": "i am feeling exceptionally reluctant to go to school tomorrow even though its monday and the timetable is pretty good",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -2.022,
+      "arousal": 2.43,
+      "dominance": 0.261
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_017"
+  },
+  {
+    "text": "i guess sometimes you arent aware of your true feelings until a playful kiss exposes them",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.561,
+      "arousal": 2.096,
+      "dominance": 2.134
+    },
+    "category": "explicit",
+    "id": "explicit_032"
+  },
+  {
+    "text": "i was working at a certain place and everyday after work dad would come to pick me up one day he did not come",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.774,
+      "arousal": 2.689,
+      "dominance": 0.589
+    },
+    "category": "implicit",
+    "id": "implicit_010"
+  },
+  {
+    "text": "i still feel like i got hit by a car i walked away only shaken up and not seriously damaged",
+    "emotion_label": "fearful",
+    "vad_scores": {
+      "valence": -1.962,
+      "arousal": 2.303,
+      "dominance": 0.48
+    },
+    "category": "explicit",
+    "id": "explicit_015"
+  },
+  {
+    "text": "im just feeling grumpy and impatient and im ready to get things moving",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -1.786,
+      "arousal": 2.433,
+      "dominance": 1.955
+    },
+    "category": "explicit",
+    "id": "explicit_006"
+  },
+  {
+    "text": "i think we all feel a bit disappointed to miss out on points today",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.847,
+      "arousal": 0.58,
+      "dominance": 0.579
+    },
+    "category": "explicit",
+    "id": "explicit_034"
+  },
+  {
+    "text": "i am writing and sharing here is much more about my own story and what i believe with all my heart the world needs to know the riches we have in god than me feeling angry towards or trying to bash the people and leaders and parents",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.17,
+      "arousal": 2.423,
+      "dominance": 2.152
+    },
+    "category": "explicit",
+    "id": "explicit_007"
+  },
+  {
+    "text": "i always feel a bit naughty on mondays",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.768,
+      "arousal": 1.992,
+      "dominance": 2.164
+    },
+    "category": "explicit",
+    "id": "explicit_008"
+  },
+  {
+    "text": "i am and i feel respected and safe with them",
+    "emotion_label": "happy",
+    "vad_scores": {
+      "valence": 2.424,
+      "arousal": 2.232,
+      "dominance": 2.205
+    },
+    "category": "explicit",
+    "id": "explicit_016"
+  },
+  {
+    "text": "i feel heartbroken for bryan",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.948,
+      "arousal": 0.897,
+      "dominance": 0.568
+    },
+    "category": "explicit",
+    "id": "explicit_023"
+  },
+  {
+    "text": "this happened when i could not get into the school i had initially wanted",
+    "emotion_label": "angry",
+    "vad_scores": {
+      "valence": -2.083,
+      "arousal": 2.392,
+      "dominance": 1.738
+    },
+    "category": "implicit",
+    "id": "implicit_027"
+  },
+  {
+    "text": "ill have to admit while it was an awesome feeling many a time i didnt know what to say froze or went mind blank while observing her",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -1.944,
+      "arousal": 0.563,
+      "dominance": 0.291
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_001"
+  },
+  {
+    "text": "i love my job and i love my kids but at times i feel like they take so much of me the person that is left is dull",
+    "emotion_label": "sad",
+    "vad_scores": {
+      "valence": -2.118,
+      "arousal": 0.485,
+      "dominance": 0.471
+    },
+    "category": "sarcastic",
+    "id": "sarcastic_019"
+  }
+]

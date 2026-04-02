@@ -1,0 +1,38 @@
+[project]
+name = "tribe-eval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12,<3.14"
+dependencies = [
+    "accelerate>=1.13.0",
+    "datasets>=4.8.4",
+    "elevenlabs",
+    "nibabel>=5.4.2",
+    "nilearn>=0.13.1",
+    "numpy>=2.2.6",
+    "ollama>=0.6.1",
+    "pandas>=3.0.2",
+    "parler-tts",
+    "scikit-learn>=1.8.0",
+    "torch>=2.5.1",
+    "torchaudio==2.5.1+cu121",
+    "tqdm>=4.67.3",
+    "transformers>=5.4.0",
+    "tribev2",
+    "whisperx>=3.4.5",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu121" }
+tribev2 = { workspace = true, editable = true }
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
+
+[tool.uv.workspace]
+members = [
+    "tribev2",
+]

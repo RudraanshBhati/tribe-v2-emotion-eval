@@ -1,0 +1,39 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Secrets
+.env
+
+# Large audio files (regenerate via generate_audio_elevenlabs.py)
+emotional_audio/
+
+# TRIBE v2 cache and temp dirs (auto-regenerated)
+tribe_cache*/
+tribe_tmp*/
+
+# Regenerable JSON outputs (large, reproducible)
+tribe_activations*.json
+formatted_contexts*.json
+results*.json
+results_dryrun*
+
+# Legacy and test artifacts
+*_old.*
+*_dryrun.*
+
+# Dependency lock (regenerate with: uv sync)
+uv.lock
+
+# TRIBE v2 source (users clone separately: git clone https://github.com/facebookresearch/tribev2)
+tribev2/
+
+# Unused stub
+main.py
